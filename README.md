@@ -1,3 +1,8 @@
+**Please note: since January 2022, this demo is now hosted at [https://github.com/meilisearch/demos/tree/main/src/finding-pypi](https://github.com/meilisearch/demos/tree/main/src/finding-crates)**
+
+---
+
+
 # Finding Crates
 
 A [new experience of search](https://crates.meilisearch.com) to find your favorite crates 🎉
